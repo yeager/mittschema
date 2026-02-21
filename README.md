@@ -1,4 +1,4 @@
-# Mitt Schema Pro
+# Mitt schema Pro
 
 Weekly visual schedule with school integration
 
