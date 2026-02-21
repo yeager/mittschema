@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=My Schedule
+GenericName=Visual weekly schedule planner
+Comment=Visual weekly schedule planner
+Exec=mittschema
+Icon=mittschema
+Terminal=false
+Categories=Education;Accessibility;
+Keywords=autism;adhd;accessibility;children;
