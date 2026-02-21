@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the mittschema package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: mittschema\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 15:33+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: mittschema/export.py:13 mittschema/main.py:53 mittschema/main.py:118
+#: mittschema/main.py:213
+msgid "My Schedule Pro"
+msgstr ""
+
+#: mittschema/export.py:95
+msgid "Export"
+msgstr ""
+
+#: mittschema/export.py:95
+msgid "Choose export format:"
+msgstr ""
+
+#: mittschema/export.py:96 mittschema/main.py:177
+msgid "Cancel"
+msgstr ""
+
+#: mittschema/export.py:97
+msgid "CSV"
+msgstr ""
+
+#: mittschema/export.py:98
+msgid "JSON"
+msgstr ""
+
+#: mittschema/export.py:99
+msgid "PDF"
+msgstr ""
+
+#: mittschema/export.py:111
+msgid "Save Export"
+msgstr ""
+
+#: mittschema/export.py:132
+#, python-format
+msgid "Exported %s"
+msgstr ""
+
+#: mittschema/export.py:135
+#, python-format
+msgid "Export error: %s"
+msgstr ""
+
+#: mittschema/main.py:31
+msgid "Monday"
+msgstr ""
+
+#: mittschema/main.py:31
+msgid "Tuesday"
+msgstr ""
+
+#: mittschema/main.py:31
+msgid "Wednesday"
+msgstr ""
+
+#: mittschema/main.py:31
+msgid "Thursday"
+msgstr ""
+
+#: mittschema/main.py:31
+msgid "Friday"
+msgstr ""
+
+#: mittschema/main.py:31
+msgid "Saturday"
+msgstr ""
+
+#: mittschema/main.py:31
+msgid "Sunday"
+msgstr ""
+
+#: mittschema/main.py:63 mittschema/main.py:161
+msgid "Add Activity"
+msgstr ""
+
+#: mittschema/main.py:68
+msgid "Export (Ctrl+E)"
+msgstr ""
+
+#: mittschema/main.py:73
+msgid "Export Schedule"
+msgstr ""
+
+#: mittschema/main.py:74
+msgid "About My Schedule Pro"
+msgstr ""
+
+#: mittschema/main.py:75
+msgid "Quit"
+msgstr ""
+
+#: mittschema/main.py:152
+msgid "No activities"
+msgstr ""
+
+#: mittschema/main.py:161
+msgid "Add a new activity to your schedule"
+msgstr ""
+
+#: mittschema/main.py:169
+msgid "Time (e.g. 08:00)"
+msgstr ""
+
+#: mittschema/main.py:173
+msgid "Activity name"
+msgstr ""
+
+#: mittschema/main.py:178
+msgid "Add"
+msgstr ""
+
+#: mittschema/main.py:193
+#, python-format
+msgid "Added: %s"
+msgstr ""
+
+#: mittschema/main.py:217
+msgid "Weekly visual schedule with school integration"
+msgstr ""
