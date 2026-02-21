@@ -1,4 +1,4 @@
-"""Mitt Schema - Weekly visual schedule."""
+"""Mitt schema - Weekly visual schedule."""
 import sys, os, json, gettext, locale
 import gi
 gi.require_version('Gtk', '4.0')
