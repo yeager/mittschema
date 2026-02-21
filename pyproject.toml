@@ -4,7 +4,7 @@ build-backend = "setuptools.backends._legacy:_Backend"
 
 [project]
 name = "mittschema"
-version = "0.1.1"
+version = "0.1.2"
 description = "Weekly visual schedule with school integration"
 license = "GPL-3.0-or-later"
 
