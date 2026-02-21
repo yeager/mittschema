@@ -27,7 +27,7 @@ jobs:
           DIR="build/${PKG}_${VER}_all"
           mkdir -p "$DIR/DEBIAN"
           mkdir -p "$DIR/usr/lib/python3/dist-packages/mittschema"
-          mkdir -p "$DIR/usr/local/bin"
+          mkdir -p "$DIR/usr/bin"
           mkdir -p "$DIR/usr/share/applications"
           cp src/mittschema/*.py "$DIR/usr/lib/python3/dist-packages/mittschema/"
           # Compile translations
@@ -38,12 +38,12 @@ jobs:
             msgfmt "$po" -o "$DIR/usr/share/locale/$lang/LC_MESSAGES/mittschema.mo"
           done
           # Launcher
-          cat > "$DIR/usr/local/bin/mittschema" << 'LAUNCHER'
+          cat > "$DIR/usr/bin/mittschema" << 'LAUNCHER'
 #!/usr/bin/env python3
 from mittschema.main import main
 main()
 LAUNCHER
-          chmod 755 "$DIR/usr/local/bin/mittschema"
+          chmod 755 "$DIR/usr/bin/mittschema"
           # Desktop file
           [ -f "data/mittschema.desktop" ] && cp "data/mittschema.desktop" "$DIR/usr/share/applications/"
           cat > "$DIR/DEBIAN/control" << CTRL
