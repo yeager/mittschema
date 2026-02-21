@@ -1,134 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: mittschema 0.1.0\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: source
-msgid "About My Schedule"
-msgstr ""
-
-#: source
-msgid "Add"
-msgstr ""
-
-#: source
-msgid "Add Activity"
-msgstr ""
-
-#: source
-msgid "Afternoon"
-msgstr ""
-
-#: source
-msgid "Bath"
-msgstr ""
-
-#: source
-msgid "Cancel"
-msgstr ""
-
-#: source
-msgid "Choose an activity:"
-msgstr ""
-
-#: source
-msgid "Date"
-msgstr ""
-
-#: source
-msgid "Details"
-msgstr ""
-
-#: source
-msgid "Dinner"
-msgstr ""
-
-#: source
-msgid "Evening"
-msgstr ""
-
-#: source
-msgid "Exercise"
-msgstr ""
-
-#: source
-msgid "Export"
-msgstr ""
-
-#: source
-msgid "Free time"
-msgstr ""
-
-#: source
-msgid "Friday"
-msgstr ""
-
-#: source
-msgid "Homework"
-msgstr ""
-
-#: source
-msgid "Lunch"
-msgstr ""
-
-#: source
-msgid "Monday"
-msgstr ""
-
-#: source
-msgid "Morning"
-msgstr ""
-
-#: source
+#: src/export.py:11 src/main.py:70 src/main.py:83
 msgid "My Schedule"
 msgstr ""
 
-#: source
-msgid "Play"
+#: src/export.py:23
+msgid "Date"
 msgstr ""
 
-#: source
-msgid "Quit"
+#: src/export.py:23
+msgid "Details"
 msgstr ""
 
-#: source
-msgid "Reading"
-msgstr ""
-
-#: source
+#: src/export.py:23
 msgid "Result"
 msgstr ""
 
-#: source
-msgid "Saturday"
+#: src/export.py:45 src/main.py:94
+msgid "Export"
 msgstr ""
 
-#: source
-msgid "School"
+#: src/main.py:22
+msgid "Monday"
 msgstr ""
 
-#: source
-msgid "Sleep"
-msgstr ""
-
-#: source
-msgid "Sunday"
-msgstr ""
-
-#: source
-msgid "Thursday"
-msgstr ""
-
-#: source
-msgid "Toggle dark/light theme"
-msgstr ""
-
-#: source
+#: src/main.py:22
 msgid "Tuesday"
 msgstr ""
 
-#: source
+#: src/main.py:22
 msgid "Wednesday"
+msgstr ""
+
+#: src/main.py:22
+msgid "Thursday"
+msgstr ""
+
+#: src/main.py:22
+msgid "Friday"
+msgstr ""
+
+#: src/main.py:22
+msgid "Saturday"
+msgstr ""
+
+#: src/main.py:22
+msgid "Sunday"
+msgstr ""
+
+#: src/main.py:23
+msgid "Morning"
+msgstr ""
+
+#: src/main.py:23
+msgid "Afternoon"
+msgstr ""
+
+#: src/main.py:23
+msgid "Evening"
+msgstr ""
+
+#: src/main.py:25
+msgid "School"
+msgstr ""
+
+#: src/main.py:26
+msgid "Lunch"
+msgstr ""
+
+#: src/main.py:27
+msgid "Homework"
+msgstr ""
+
+#: src/main.py:28
+msgid "Play"
+msgstr ""
+
+#: src/main.py:29
+msgid "Dinner"
+msgstr ""
+
+#: src/main.py:30
+msgid "Bath"
+msgstr ""
+
+#: src/main.py:31
+msgid "Sleep"
+msgstr ""
+
+#: src/main.py:32
+msgid "Exercise"
+msgstr ""
+
+#: src/main.py:33
+msgid "Reading"
+msgstr ""
+
+#: src/main.py:34
+msgid "Free time"
+msgstr ""
+
+#: src/main.py:95
+msgid "About My Schedule"
+msgstr ""
+
+#: src/main.py:96
+msgid "Quit"
+msgstr ""
+
+#: src/main.py:100
+msgid "Toggle dark/light theme"
+msgstr ""
+
+#: src/main.py:155
+msgid "Add Activity"
+msgstr ""
+
+#: src/main.py:156
+msgid "Choose an activity:"
+msgstr ""
+
+#: src/main.py:164
+msgid "Cancel"
+msgstr ""
+
+#: src/main.py:165
+msgid "Add"
 msgstr ""
