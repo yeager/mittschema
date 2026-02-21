@@ -1,0 +1,141 @@
+# Translators:
+# Daniel Nylander <po@danielnylander.se>, 2026
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: mittschema 0.1.0\n"
+"Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
+"Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305150/sv/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: src/mittschema/main.py:1
+msgid "About My Schedule"
+msgstr "Om Mitt schema"
+
+#: src/mittschema/main.py:2
+msgid "Add"
+msgstr "Lägg till"
+
+#: src/mittschema/main.py:3
+msgid "Add Activity"
+msgstr "Lägg till aktivitet"
+
+#: src/mittschema/main.py:4
+msgid "Afternoon"
+msgstr "Eftermiddag"
+
+#: src/mittschema/main.py:5
+msgid "Bath"
+msgstr "Bad"
+
+#: src/mittschema/main.py:6
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: src/mittschema/main.py:7
+msgid "Choose an activity:"
+msgstr "Välj en aktivitet:"
+
+#: src/mittschema/main.py:8
+msgid "Date"
+msgstr "Datum"
+
+#: src/mittschema/main.py:9
+msgid "Details"
+msgstr "Detaljer"
+
+#: src/mittschema/main.py:10
+msgid "Dinner"
+msgstr "Middag"
+
+#: src/mittschema/main.py:11
+msgid "Evening"
+msgstr "Kväll"
+
+#: src/mittschema/main.py:12
+msgid "Exercise"
+msgstr "Motion"
+
+#: src/mittschema/main.py:13
+msgid "Export"
+msgstr "Exportera"
+
+#: src/mittschema/main.py:14
+msgid "Free time"
+msgstr "Fritid"
+
+#: src/mittschema/main.py:15
+msgid "Friday"
+msgstr "Fredag"
+
+#: src/mittschema/main.py:16
+msgid "Homework"
+msgstr "Läxor"
+
+#: src/mittschema/main.py:17
+msgid "Lunch"
+msgstr "Lunch"
+
+#: src/mittschema/main.py:18
+msgid "Monday"
+msgstr "Måndag"
+
+#: src/mittschema/main.py:19
+msgid "Morning"
+msgstr "Morgon"
+
+#: src/mittschema/main.py:20
+msgid "My Schedule"
+msgstr "Mitt schema"
+
+#: src/mittschema/main.py:21
+msgid "Play"
+msgstr "Leka"
+
+#: src/mittschema/main.py:22
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/mittschema/main.py:23
+msgid "Reading"
+msgstr "Läsning"
+
+#: src/mittschema/main.py:24
+msgid "Result"
+msgstr "Resultat"
+
+#: src/mittschema/main.py:25
+msgid "Saturday"
+msgstr "Lördag"
+
+#: src/mittschema/main.py:26
+msgid "School"
+msgstr "Skola"
+
+#: src/mittschema/main.py:27
+msgid "Sleep"
+msgstr "Sömn"
+
+#: src/mittschema/main.py:28
+msgid "Sunday"
+msgstr "Söndag"
+
+#: src/mittschema/main.py:29
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: src/mittschema/main.py:30
+msgid "Toggle dark/light theme"
+msgstr "Växla mellan mörkt/ljus tema"
+
+#: src/mittschema/main.py:31
+msgid "Tuesday"
+msgstr "Tisdag"
+
+#: src/mittschema/main.py:32
+msgid "Wednesday"
+msgstr "Onsdag"
