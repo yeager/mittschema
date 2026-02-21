@@ -1,4 +1,4 @@
-"""Mitt Schema Pro — Weekly visual schedule."""
+"""Mitt schema Pro — Weekly visual schedule."""
 
 import gettext
 import json
