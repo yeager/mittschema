@@ -1,8 +1,10 @@
 [Desktop Entry]
 Type=Application
 Name=My Schedule
+Name[sv]=Mitt schema
 GenericName=Visual weekly schedule planner
 Comment=Visual weekly schedule planner
+Comment[sv]=Visuellt veckoschema med tidsblock
 Exec=mittschema
 Icon=mittschema
 Terminal=false
