@@ -1,9 +1,18 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 # Translators:
 # Daniel Nylander <po@danielnylander.se>, 2026
 # 
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: mittschema 0.1.0\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"PO-Revision-Date: 2026-02-21 15:40+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305150/sv/)\n"
 "MIME-Version: 1.0\n"
@@ -12,130 +21,130 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: src/mittschema/main.py:1
-msgid "About My Schedule"
-msgstr "Om Mitt schema"
-
-#: src/mittschema/main.py:2
-msgid "Add"
-msgstr "Lägg till"
-
-#: src/mittschema/main.py:3
-msgid "Add Activity"
-msgstr "Lägg till aktivitet"
-
-#: src/mittschema/main.py:4
-msgid "Afternoon"
-msgstr "Eftermiddag"
-
-#: src/mittschema/main.py:5
-msgid "Bath"
-msgstr "Bad"
-
-#: src/mittschema/main.py:6
-msgid "Cancel"
-msgstr "Avbryt"
-
-#: src/mittschema/main.py:7
-msgid "Choose an activity:"
-msgstr "Välj en aktivitet:"
-
-#: src/mittschema/main.py:8
-msgid "Date"
-msgstr "Datum"
-
-#: src/mittschema/main.py:9
-msgid "Details"
-msgstr "Detaljer"
-
-#: src/mittschema/main.py:10
-msgid "Dinner"
-msgstr "Middag"
-
-#: src/mittschema/main.py:11
-msgid "Evening"
-msgstr "Kväll"
-
-#: src/mittschema/main.py:12
-msgid "Exercise"
-msgstr "Motion"
-
-#: src/mittschema/main.py:13
-msgid "Export"
-msgstr "Exportera"
-
-#: src/mittschema/main.py:14
-msgid "Free time"
-msgstr "Fritid"
-
-#: src/mittschema/main.py:15
-msgid "Friday"
-msgstr "Fredag"
-
-#: src/mittschema/main.py:16
-msgid "Homework"
-msgstr "Läxor"
-
-#: src/mittschema/main.py:17
-msgid "Lunch"
-msgstr "Lunch"
-
-#: src/mittschema/main.py:18
-msgid "Monday"
-msgstr "Måndag"
-
-#: src/mittschema/main.py:19
-msgid "Morning"
-msgstr "Morgon"
-
-#: src/mittschema/main.py:20
+#: src/export.py:11 src/main.py:70 src/main.py:83
 msgid "My Schedule"
 msgstr "Mitt schema"
 
-#: src/mittschema/main.py:21
-msgid "Play"
-msgstr "Leka"
+#: src/export.py:23
+msgid "Date"
+msgstr "Datum"
 
-#: src/mittschema/main.py:22
-msgid "Quit"
-msgstr "Avsluta"
+#: src/export.py:23
+msgid "Details"
+msgstr "Detaljer"
 
-#: src/mittschema/main.py:23
-msgid "Reading"
-msgstr "Läsning"
-
-#: src/mittschema/main.py:24
+#: src/export.py:23
 msgid "Result"
 msgstr "Resultat"
 
-#: src/mittschema/main.py:25
-msgid "Saturday"
-msgstr "Lördag"
+#: src/export.py:45 src/main.py:94
+msgid "Export"
+msgstr "Exportera"
 
-#: src/mittschema/main.py:26
-msgid "School"
-msgstr "Skola"
+#: src/main.py:22
+msgid "Monday"
+msgstr "Måndag"
 
-#: src/mittschema/main.py:27
-msgid "Sleep"
-msgstr "Sömn"
-
-#: src/mittschema/main.py:28
-msgid "Sunday"
-msgstr "Söndag"
-
-#: src/mittschema/main.py:29
-msgid "Thursday"
-msgstr "Torsdag"
-
-#: src/mittschema/main.py:30
-msgid "Toggle dark/light theme"
-msgstr "Växla mellan mörkt/ljus tema"
-
-#: src/mittschema/main.py:31
+#: src/main.py:22
 msgid "Tuesday"
 msgstr "Tisdag"
 
-#: src/mittschema/main.py:32
+#: src/main.py:22
 msgid "Wednesday"
 msgstr "Onsdag"
+
+#: src/main.py:22
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: src/main.py:22
+msgid "Friday"
+msgstr "Fredag"
+
+#: src/main.py:22
+msgid "Saturday"
+msgstr "Lördag"
+
+#: src/main.py:22
+msgid "Sunday"
+msgstr "Söndag"
+
+#: src/main.py:23
+msgid "Morning"
+msgstr "Morgon"
+
+#: src/main.py:23
+msgid "Afternoon"
+msgstr "Eftermiddag"
+
+#: src/main.py:23
+msgid "Evening"
+msgstr "Kväll"
+
+#: src/main.py:25
+msgid "School"
+msgstr "Skola"
+
+#: src/main.py:26
+msgid "Lunch"
+msgstr "Lunch"
+
+#: src/main.py:27
+msgid "Homework"
+msgstr "Läxor"
+
+#: src/main.py:28
+msgid "Play"
+msgstr "Leka"
+
+#: src/main.py:29
+msgid "Dinner"
+msgstr "Middag"
+
+#: src/main.py:30
+msgid "Bath"
+msgstr "Bad"
+
+#: src/main.py:31
+msgid "Sleep"
+msgstr "Sömn"
+
+#: src/main.py:32
+msgid "Exercise"
+msgstr "Motion"
+
+#: src/main.py:33
+msgid "Reading"
+msgstr "Läsning"
+
+#: src/main.py:34
+msgid "Free time"
+msgstr "Fritid"
+
+#: src/main.py:95
+msgid "About My Schedule"
+msgstr "Om Mitt schema"
+
+#: src/main.py:96
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/main.py:100
+msgid "Toggle dark/light theme"
+msgstr "Växla mellan mörkt/ljus tema"
+
+#: src/main.py:155
+msgid "Add Activity"
+msgstr "Lägg till aktivitet"
+
+#: src/main.py:156
+msgid "Choose an activity:"
+msgstr "Välj en aktivitet:"
+
+#: src/main.py:164
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: src/main.py:165
+msgid "Add"
+msgstr "Lägg till"
