@@ -23,3 +23,10 @@ GPL-3.0
 ## Author
 
 Daniel Nylander — [danielnylander.se](https://danielnylander.se)
+
+## Screenshots
+
+![mittschema (English)](screenshots/mittschema_en.png)
+
+![mittschema (Svenska)](screenshots/mittschema_sv.png)
+
