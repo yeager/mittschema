@@ -8,139 +8,162 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-21 20:53+0100\n"
+"POT-Creation-Date: 2026-02-22 06:01+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/export.py:11 src/main.py:70 src/main.py:83
+#: src/mittschema/export.py:11 src/mittschema/main.py:94
+#: src/mittschema/main.py:107
 msgid "My Schedule"
 msgstr ""
 
-#: src/export.py:23
+#: src/mittschema/export.py:23
 msgid "Date"
 msgstr ""
 
-#: src/export.py:23
+#: src/mittschema/export.py:23
 msgid "Details"
 msgstr ""
 
-#: src/export.py:23
+#: src/mittschema/export.py:23
 msgid "Result"
 msgstr ""
 
-#: src/export.py:45 src/main.py:94
+#: src/mittschema/export.py:45 src/mittschema/main.py:118
 msgid "Export"
 msgstr ""
 
-#: src/main.py:22
+#: src/mittschema/main.py:23
 msgid "Monday"
 msgstr ""
 
-#: src/main.py:22
+#: src/mittschema/main.py:23
 msgid "Tuesday"
 msgstr ""
 
-#: src/main.py:22
+#: src/mittschema/main.py:23
 msgid "Wednesday"
 msgstr ""
 
-#: src/main.py:22
+#: src/mittschema/main.py:23
 msgid "Thursday"
 msgstr ""
 
-#: src/main.py:22
+#: src/mittschema/main.py:23
 msgid "Friday"
 msgstr ""
 
-#: src/main.py:22
+#: src/mittschema/main.py:23
 msgid "Saturday"
 msgstr ""
 
-#: src/main.py:22
+#: src/mittschema/main.py:23
 msgid "Sunday"
 msgstr ""
 
-#: src/main.py:23
+#: src/mittschema/main.py:24
 msgid "Morning"
 msgstr ""
 
-#: src/main.py:23
+#: src/mittschema/main.py:24
 msgid "Afternoon"
 msgstr ""
 
-#: src/main.py:23
+#: src/mittschema/main.py:24
 msgid "Evening"
 msgstr ""
 
-#: src/main.py:25
+#: src/mittschema/main.py:26
 msgid "School"
 msgstr ""
 
-#: src/main.py:26
+#: src/mittschema/main.py:27
 msgid "Lunch"
 msgstr ""
 
-#: src/main.py:27
+#: src/mittschema/main.py:28
 msgid "Homework"
 msgstr ""
 
-#: src/main.py:28
+#: src/mittschema/main.py:29
 msgid "Play"
 msgstr ""
 
-#: src/main.py:29
+#: src/mittschema/main.py:30
 msgid "Dinner"
 msgstr ""
 
-#: src/main.py:30
+#: src/mittschema/main.py:31
 msgid "Bath"
 msgstr ""
 
-#: src/main.py:31
+#: src/mittschema/main.py:32
 msgid "Sleep"
 msgstr ""
 
-#: src/main.py:32
+#: src/mittschema/main.py:33
 msgid "Exercise"
 msgstr ""
 
-#: src/main.py:33
+#: src/mittschema/main.py:34
 msgid "Reading"
 msgstr ""
 
-#: src/main.py:34
+#: src/mittschema/main.py:35
 msgid "Free time"
 msgstr ""
 
-#: src/main.py:95
+#: src/mittschema/main.py:119
 msgid "About My Schedule"
 msgstr ""
 
-#: src/main.py:96
+#: src/mittschema/main.py:120
 msgid "Quit"
 msgstr ""
 
-#: src/main.py:100
+#: src/mittschema/main.py:124
 msgid "Toggle dark/light theme"
 msgstr ""
 
-#: src/main.py:155
+#: src/mittschema/main.py:179
 msgid "Add Activity"
 msgstr ""
 
-#: src/main.py:156
+#: src/mittschema/main.py:180
 msgid "Choose an activity:"
 msgstr ""
 
-#: src/main.py:164
+#: src/mittschema/main.py:188
 msgid "Cancel"
 msgstr ""
 
-#: src/main.py:165
+#: src/mittschema/main.py:189
 msgid "Add"
+msgstr ""
+
+#: src/mittschema/main.py:244
+msgid "Welcome"
+msgstr ""
+
+#: src/mittschema/main.py:250
+msgid "Welcome to My Schedule"
+msgstr ""
+
+#: src/mittschema/main.py:252
+msgid ""
+"A weekly visual schedule for structure and routine.\n"
+"\n"
+"✓ Plan activities for each day\n"
+"✓ Visual weekly overview\n"
+"✓ Color-coded activities\n"
+"✓ Simple and clear layout"
+msgstr ""
+
+#: src/mittschema/main.py:255
+msgid "Get Started"
 msgstr ""
