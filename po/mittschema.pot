@@ -1,14 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the mittschema package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: mittschema\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 06:01+0100\n"
+"POT-Creation-Date: 2026-02-22 17:03+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,8 +17,129 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/mittschema/export.py:11 src/mittschema/main.py:94
-#: src/mittschema/main.py:107
+#: mittschema/export.py:13 mittschema/main.py:53 mittschema/main.py:118
+#: mittschema/main.py:213
+msgid "My Schedule Pro"
+msgstr ""
+
+#: mittschema/export.py:95 src/mittschema/export.py:45
+#: src/mittschema/main.py:119
+msgid "Export"
+msgstr ""
+
+#: mittschema/export.py:95
+msgid "Choose export format:"
+msgstr ""
+
+#: mittschema/export.py:96 mittschema/main.py:177 src/mittschema/main.py:189
+msgid "Cancel"
+msgstr ""
+
+#: mittschema/export.py:97
+msgid "CSV"
+msgstr ""
+
+#: mittschema/export.py:98
+msgid "JSON"
+msgstr ""
+
+#: mittschema/export.py:99
+msgid "PDF"
+msgstr ""
+
+#: mittschema/export.py:111
+msgid "Save Export"
+msgstr ""
+
+#: mittschema/export.py:132
+#, python-format
+msgid "Exported %s"
+msgstr ""
+
+#: mittschema/export.py:135
+#, python-format
+msgid "Export error: %s"
+msgstr ""
+
+#: mittschema/main.py:31 src/mittschema/main.py:24
+msgid "Monday"
+msgstr ""
+
+#: mittschema/main.py:31 src/mittschema/main.py:24
+msgid "Tuesday"
+msgstr ""
+
+#: mittschema/main.py:31 src/mittschema/main.py:24
+msgid "Wednesday"
+msgstr ""
+
+#: mittschema/main.py:31 src/mittschema/main.py:24
+msgid "Thursday"
+msgstr ""
+
+#: mittschema/main.py:31 src/mittschema/main.py:24
+msgid "Friday"
+msgstr ""
+
+#: mittschema/main.py:31 src/mittschema/main.py:24
+msgid "Saturday"
+msgstr ""
+
+#: mittschema/main.py:31 src/mittschema/main.py:24
+msgid "Sunday"
+msgstr ""
+
+#: mittschema/main.py:63 mittschema/main.py:161 src/mittschema/main.py:180
+msgid "Add Activity"
+msgstr ""
+
+#: mittschema/main.py:68
+msgid "Export (Ctrl+E)"
+msgstr ""
+
+#: mittschema/main.py:73
+msgid "Export Schedule"
+msgstr ""
+
+#: mittschema/main.py:74
+msgid "About My Schedule Pro"
+msgstr ""
+
+#: mittschema/main.py:75 src/mittschema/main.py:121
+msgid "Quit"
+msgstr ""
+
+#: mittschema/main.py:152
+msgid "No activities"
+msgstr ""
+
+#: mittschema/main.py:161
+msgid "Add a new activity to your schedule"
+msgstr ""
+
+#: mittschema/main.py:169
+msgid "Time (e.g. 08:00)"
+msgstr ""
+
+#: mittschema/main.py:173
+msgid "Activity name"
+msgstr ""
+
+#: mittschema/main.py:178 src/mittschema/main.py:190
+msgid "Add"
+msgstr ""
+
+#: mittschema/main.py:193
+#, python-format
+msgid "Added: %s"
+msgstr ""
+
+#: mittschema/main.py:217
+msgid "Weekly visual schedule with school integration"
+msgstr ""
+
+#: src/mittschema/export.py:11 src/mittschema/main.py:95
+#: src/mittschema/main.py:108
 msgid "My Schedule"
 msgstr ""
 
@@ -34,127 +155,79 @@ msgstr ""
 msgid "Result"
 msgstr ""
 
-#: src/mittschema/export.py:45 src/mittschema/main.py:118
-msgid "Export"
-msgstr ""
-
-#: src/mittschema/main.py:23
-msgid "Monday"
-msgstr ""
-
-#: src/mittschema/main.py:23
-msgid "Tuesday"
-msgstr ""
-
-#: src/mittschema/main.py:23
-msgid "Wednesday"
-msgstr ""
-
-#: src/mittschema/main.py:23
-msgid "Thursday"
-msgstr ""
-
-#: src/mittschema/main.py:23
-msgid "Friday"
-msgstr ""
-
-#: src/mittschema/main.py:23
-msgid "Saturday"
-msgstr ""
-
-#: src/mittschema/main.py:23
-msgid "Sunday"
-msgstr ""
-
-#: src/mittschema/main.py:24
+#: src/mittschema/main.py:25
 msgid "Morning"
 msgstr ""
 
-#: src/mittschema/main.py:24
+#: src/mittschema/main.py:25
 msgid "Afternoon"
 msgstr ""
 
-#: src/mittschema/main.py:24
+#: src/mittschema/main.py:25
 msgid "Evening"
 msgstr ""
 
-#: src/mittschema/main.py:26
+#: src/mittschema/main.py:27
 msgid "School"
 msgstr ""
 
-#: src/mittschema/main.py:27
+#: src/mittschema/main.py:28
 msgid "Lunch"
 msgstr ""
 
-#: src/mittschema/main.py:28
+#: src/mittschema/main.py:29
 msgid "Homework"
 msgstr ""
 
-#: src/mittschema/main.py:29
+#: src/mittschema/main.py:30
 msgid "Play"
 msgstr ""
 
-#: src/mittschema/main.py:30
+#: src/mittschema/main.py:31
 msgid "Dinner"
 msgstr ""
 
-#: src/mittschema/main.py:31
+#: src/mittschema/main.py:32
 msgid "Bath"
 msgstr ""
 
-#: src/mittschema/main.py:32
+#: src/mittschema/main.py:33
 msgid "Sleep"
 msgstr ""
 
-#: src/mittschema/main.py:33
+#: src/mittschema/main.py:34
 msgid "Exercise"
 msgstr ""
 
-#: src/mittschema/main.py:34
+#: src/mittschema/main.py:35
 msgid "Reading"
 msgstr ""
 
-#: src/mittschema/main.py:35
+#: src/mittschema/main.py:36
 msgid "Free time"
 msgstr ""
 
-#: src/mittschema/main.py:119
+#: src/mittschema/main.py:120
 msgid "About My Schedule"
 msgstr ""
 
-#: src/mittschema/main.py:120
-msgid "Quit"
-msgstr ""
-
-#: src/mittschema/main.py:124
+#: src/mittschema/main.py:125
 msgid "Toggle dark/light theme"
 msgstr ""
 
-#: src/mittschema/main.py:179
-msgid "Add Activity"
-msgstr ""
-
-#: src/mittschema/main.py:180
+#: src/mittschema/main.py:181
 msgid "Choose an activity:"
 msgstr ""
 
-#: src/mittschema/main.py:188
-msgid "Cancel"
-msgstr ""
-
-#: src/mittschema/main.py:189
-msgid "Add"
-msgstr ""
-
-#: src/mittschema/main.py:244
+#: src/mittschema/main.py:245
 msgid "Welcome"
 msgstr ""
 
-#: src/mittschema/main.py:250
+#: src/mittschema/main.py:251
 msgid "Welcome to My Schedule"
 msgstr ""
 
-#: src/mittschema/main.py:252
+#: src/mittschema/main.py:253
 msgid ""
 "A weekly visual schedule for structure and routine.\n"
 "\n"
@@ -164,6 +237,6 @@ msgid ""
 "✓ Simple and clear layout"
 msgstr ""
 
-#: src/mittschema/main.py:255
+#: src/mittschema/main.py:256
 msgid "Get Started"
 msgstr ""
