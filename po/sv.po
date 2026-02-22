@@ -152,11 +152,11 @@ msgstr "Lägg till"
 
 #: src/mittschema/main.py:244
 msgid "Welcome"
-msgstr ""
+msgstr "Välkommen"
 
 #: src/mittschema/main.py:250
 msgid "Welcome to My Schedule"
-msgstr ""
+msgstr "Välkommen till Mitt schema"
 
 #: src/mittschema/main.py:252
 msgid ""
@@ -167,7 +167,13 @@ msgid ""
 "✓ Color-coded activities\n"
 "✓ Simple and clear layout"
 msgstr ""
+"Ett visuellt veckoschema för struktur och rutin.\n"
+"\n"
+"✓ Planera aktiviteter för varje dag\n"
+"✓ Visuell veckovis översikt\n"
+"✓ Färgkodade aktiviteter\n"
+"✓ Enkel och tydlig layout"
 
 #: src/mittschema/main.py:255
 msgid "Get Started"
-msgstr ""
+msgstr "Kom igång"
