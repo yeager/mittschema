@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mittschema\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:03+0100\n"
+"POT-Creation-Date: 2026-02-22 17:04+0100\n"
 "PO-Revision-Date: 2026-02-21 15:40+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305150/sv/)\n"
@@ -24,7 +24,7 @@ msgstr ""
 #: mittschema/export.py:13 mittschema/main.py:53 mittschema/main.py:118
 #: mittschema/main.py:213
 msgid "My Schedule Pro"
-msgstr ""
+msgstr "Mitt schema Pro"
 
 #: mittschema/export.py:95 src/mittschema/export.py:45
 #: src/mittschema/main.py:119
@@ -33,7 +33,7 @@ msgstr "Exportera"
 
 #: mittschema/export.py:95
 msgid "Choose export format:"
-msgstr ""
+msgstr "Välj exportformat:"
 
 #: mittschema/export.py:96 mittschema/main.py:177 src/mittschema/main.py:189
 msgid "Cancel"
@@ -41,29 +41,29 @@ msgstr "Avbryt"
 
 #: mittschema/export.py:97
 msgid "CSV"
-msgstr ""
+msgstr "CSV"
 
 #: mittschema/export.py:98
 msgid "JSON"
-msgstr ""
+msgstr "JSON"
 
 #: mittschema/export.py:99
 msgid "PDF"
-msgstr ""
+msgstr "PDF"
 
 #: mittschema/export.py:111
 msgid "Save Export"
-msgstr ""
+msgstr "Spara export"
 
 #: mittschema/export.py:132
 #, python-format
 msgid "Exported %s"
-msgstr ""
+msgstr "Exporterade %s"
 
 #: mittschema/export.py:135
 #, python-format
 msgid "Export error: %s"
-msgstr ""
+msgstr "Exportfel: %s"
 
 #: mittschema/main.py:31 src/mittschema/main.py:24
 msgid "Monday"
@@ -99,15 +99,15 @@ msgstr "Lägg till aktivitet"
 
 #: mittschema/main.py:68
 msgid "Export (Ctrl+E)"
-msgstr ""
+msgstr "Exportera (Ctrl+E)"
 
 #: mittschema/main.py:73
 msgid "Export Schedule"
-msgstr ""
+msgstr "Exportera schema"
 
 #: mittschema/main.py:74
 msgid "About My Schedule Pro"
-msgstr ""
+msgstr "Om Mitt schema Pro"
 
 #: mittschema/main.py:75 src/mittschema/main.py:121
 msgid "Quit"
@@ -115,19 +115,19 @@ msgstr "Avsluta"
 
 #: mittschema/main.py:152
 msgid "No activities"
-msgstr ""
+msgstr "Inga aktiviteter"
 
 #: mittschema/main.py:161
 msgid "Add a new activity to your schedule"
-msgstr ""
+msgstr "Lägg till en ny aktivitet i ditt schema"
 
 #: mittschema/main.py:169
 msgid "Time (e.g. 08:00)"
-msgstr ""
+msgstr "Tid (t.ex. 08:00)"
 
 #: mittschema/main.py:173
 msgid "Activity name"
-msgstr ""
+msgstr "Aktivitetsnamn:"
 
 #: mittschema/main.py:178 src/mittschema/main.py:190
 msgid "Add"
@@ -136,11 +136,11 @@ msgstr "Lägg till"
 #: mittschema/main.py:193
 #, python-format
 msgid "Added: %s"
-msgstr ""
+msgstr "Lade till: %s"
 
 #: mittschema/main.py:217
 msgid "Weekly visual schedule with school integration"
-msgstr ""
+msgstr "Veckoschema med visuell presentation och skolintegration"
 
 #: src/mittschema/export.py:11 src/mittschema/main.py:95
 #: src/mittschema/main.py:108
