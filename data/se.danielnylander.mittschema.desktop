@@ -9,6 +9,6 @@ Exec=mittschema
 Icon=se.danielnylander.mittschema
 Terminal=false
 Type=Application
-Categories=GNOME;GTK;Utility;Accessibility;
+Categories=GNOME;GTK;Utility;Accessibility;Autismappar
 Keywords=schedule;week;school;planner;autism;adhd;
 Keywords[sv]=schema;vecka;skola;planerare;autism;adhd;
