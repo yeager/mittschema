@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: mittschema\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 17:04+0100\n"
+"POT-Creation-Date: 2026-02-23 11:03+0100\n"
 "PO-Revision-Date: 2026-02-21 15:40+0000\n"
 "Last-Translator: Daniel Nylander <po@danielnylander.se>, 2026\n"
 "Language-Team: Swedish (https://app.transifex.com/danielnylander/teams/305150/sv/)\n"
@@ -21,129 +21,8 @@ msgstr ""
 "Language: sv\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: mittschema/export.py:13 mittschema/main.py:53 mittschema/main.py:118
-#: mittschema/main.py:213
-msgid "My Schedule Pro"
-msgstr "Mitt schema Pro"
-
-#: mittschema/export.py:95 src/mittschema/export.py:45
-#: src/mittschema/main.py:119
-msgid "Export"
-msgstr "Exportera"
-
-#: mittschema/export.py:95
-msgid "Choose export format:"
-msgstr "Välj exportformat:"
-
-#: mittschema/export.py:96 mittschema/main.py:177 src/mittschema/main.py:189
-msgid "Cancel"
-msgstr "Avbryt"
-
-#: mittschema/export.py:97
-msgid "CSV"
-msgstr "CSV"
-
-#: mittschema/export.py:98
-msgid "JSON"
-msgstr "JSON"
-
-#: mittschema/export.py:99
-msgid "PDF"
-msgstr "PDF"
-
-#: mittschema/export.py:111
-msgid "Save Export"
-msgstr "Spara export"
-
-#: mittschema/export.py:132
-#, python-format
-msgid "Exported %s"
-msgstr "Exporterade %s"
-
-#: mittschema/export.py:135
-#, python-format
-msgid "Export error: %s"
-msgstr "Exportfel: %s"
-
-#: mittschema/main.py:31 src/mittschema/main.py:24
-msgid "Monday"
-msgstr "Måndag"
-
-#: mittschema/main.py:31 src/mittschema/main.py:24
-msgid "Tuesday"
-msgstr "Tisdag"
-
-#: mittschema/main.py:31 src/mittschema/main.py:24
-msgid "Wednesday"
-msgstr "Onsdag"
-
-#: mittschema/main.py:31 src/mittschema/main.py:24
-msgid "Thursday"
-msgstr "Torsdag"
-
-#: mittschema/main.py:31 src/mittschema/main.py:24
-msgid "Friday"
-msgstr "Fredag"
-
-#: mittschema/main.py:31 src/mittschema/main.py:24
-msgid "Saturday"
-msgstr "Lördag"
-
-#: mittschema/main.py:31 src/mittschema/main.py:24
-msgid "Sunday"
-msgstr "Söndag"
-
-#: mittschema/main.py:63 mittschema/main.py:161 src/mittschema/main.py:180
-msgid "Add Activity"
-msgstr "Lägg till aktivitet"
-
-#: mittschema/main.py:68
-msgid "Export (Ctrl+E)"
-msgstr "Exportera (Ctrl+E)"
-
-#: mittschema/main.py:73
-msgid "Export Schedule"
-msgstr "Exportera schema"
-
-#: mittschema/main.py:74
-msgid "About My Schedule Pro"
-msgstr "Om Mitt schema Pro"
-
-#: mittschema/main.py:75 src/mittschema/main.py:121
-msgid "Quit"
-msgstr "Avsluta"
-
-#: mittschema/main.py:152
-msgid "No activities"
-msgstr "Inga aktiviteter"
-
-#: mittschema/main.py:161
-msgid "Add a new activity to your schedule"
-msgstr "Lägg till en ny aktivitet i ditt schema"
-
-#: mittschema/main.py:169
-msgid "Time (e.g. 08:00)"
-msgstr "Tid (t.ex. 08:00)"
-
-#: mittschema/main.py:173
-msgid "Activity name"
-msgstr "Aktivitetsnamn:"
-
-#: mittschema/main.py:178 src/mittschema/main.py:190
-msgid "Add"
-msgstr "Lägg till"
-
-#: mittschema/main.py:193
-#, python-format
-msgid "Added: %s"
-msgstr "Lade till: %s"
-
-#: mittschema/main.py:217
-msgid "Weekly visual schedule with school integration"
-msgstr "Veckoschema med visuell presentation och skolintegration"
-
 #: src/mittschema/export.py:11 src/mittschema/main.py:95
-#: src/mittschema/main.py:108
+#: src/mittschema/main.py:114
 msgid "My Schedule"
 msgstr "Mitt schema"
 
@@ -158,6 +37,38 @@ msgstr "Detaljer"
 #: src/mittschema/export.py:23
 msgid "Result"
 msgstr "Resultat"
+
+#: src/mittschema/export.py:45 src/mittschema/main.py:125
+msgid "Export"
+msgstr "Exportera"
+
+#: src/mittschema/main.py:24
+msgid "Monday"
+msgstr "Måndag"
+
+#: src/mittschema/main.py:24
+msgid "Tuesday"
+msgstr "Tisdag"
+
+#: src/mittschema/main.py:24
+msgid "Wednesday"
+msgstr "Onsdag"
+
+#: src/mittschema/main.py:24
+msgid "Thursday"
+msgstr "Torsdag"
+
+#: src/mittschema/main.py:24
+msgid "Friday"
+msgstr "Fredag"
+
+#: src/mittschema/main.py:24
+msgid "Saturday"
+msgstr "Lördag"
+
+#: src/mittschema/main.py:24
+msgid "Sunday"
+msgstr "Söndag"
 
 #: src/mittschema/main.py:25
 msgid "Morning"
@@ -211,27 +122,47 @@ msgstr "Läsning"
 msgid "Free time"
 msgstr "Fritid"
 
-#: src/mittschema/main.py:120
+#: src/mittschema/main.py:99 src/mittschema/main.py:216
+msgid "Thanks to"
+msgstr "Tack till"
+
+#: src/mittschema/main.py:126
 msgid "About My Schedule"
 msgstr "Om Mitt schema"
 
-#: src/mittschema/main.py:125
+#: src/mittschema/main.py:127
+msgid "Quit"
+msgstr "Avsluta"
+
+#: src/mittschema/main.py:131
 msgid "Toggle dark/light theme"
 msgstr "Växla mellan mörkt/ljus tema"
 
-#: src/mittschema/main.py:181
+#: src/mittschema/main.py:186
+msgid "Add Activity"
+msgstr "Lägg till aktivitet"
+
+#: src/mittschema/main.py:187
 msgid "Choose an activity:"
 msgstr "Välj en aktivitet:"
 
-#: src/mittschema/main.py:245
+#: src/mittschema/main.py:195
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: src/mittschema/main.py:196
+msgid "Add"
+msgstr "Lägg till"
+
+#: src/mittschema/main.py:257
 msgid "Welcome"
 msgstr "Välkommen"
 
-#: src/mittschema/main.py:251
+#: src/mittschema/main.py:263
 msgid "Welcome to My Schedule"
 msgstr "Välkommen till Mitt schema"
 
-#: src/mittschema/main.py:253
+#: src/mittschema/main.py:265
 msgid ""
 "A weekly visual schedule for structure and routine.\n"
 "\n"
@@ -247,6 +178,6 @@ msgstr ""
 "✓ Färgkodade aktiviteter\n"
 "✓ Enkel och tydlig layout"
 
-#: src/mittschema/main.py:256
+#: src/mittschema/main.py:268
 msgid "Get Started"
 msgstr "Kom igång"
