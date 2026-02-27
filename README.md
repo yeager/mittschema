@@ -1,3 +1,5 @@
+> **⚠️ This app has been migrated to the Autismappar PWA at https://autismappar.se**
+
 # Mitt Schema
 
 Weekly visual schedule with school integration for children with autism.
@@ -29,4 +31,3 @@ Daniel Nylander — [danielnylander.se](https://danielnylander.se)
 ![mittschema (English)](screenshots/mittschema_en.png)
 
 ![mittschema (Svenska)](screenshots/mittschema_sv.png)
-
